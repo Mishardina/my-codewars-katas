@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/543e926d38603441590021dd
+
 from itertools import permutations
 
 def get_words(hash_of_letters):

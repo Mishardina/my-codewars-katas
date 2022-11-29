@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/56a4872cbb65f3a610000026
+
 def max_rot(n):
     num_as_list = [int(a) for a in str(n)]
     rotated_list = num_as_list

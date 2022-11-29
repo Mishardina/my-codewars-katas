@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/5254ca2719453dcc0b00027d
+
 from collections import Counter
 from math import factorial, prod
 

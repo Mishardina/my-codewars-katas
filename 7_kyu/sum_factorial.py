@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/56b0f6243196b9d42d000034
+
 def own_factorial(num):
     fact = 1
     while num > 0:

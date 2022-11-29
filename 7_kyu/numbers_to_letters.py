@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c
+
 def switcher(arr):
     codes = {}
     for i in list(map(chr, range(122, 96, -1))):
